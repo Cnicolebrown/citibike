@@ -6,9 +6,9 @@ https://public.tableau.com/views/citibike_challenge_16588862736430/Dashboard1?:l
 # Purpose
 The overall purpose of this analysis was to convince investors that a bike sharing program is worth investing in. In order to do this various factors such as: gender, trip duration, and count of bikes used were examined. 
 
-#Results
+# Results
 From the analysis trip duration rises on a positive level.
- ![image](https://user-images.githubusercontent.com/103790879/181660387-6641dd23-7d2e-40ee-9983-182d7e46f584.png)
+![image](https://user-images.githubusercontent.com/103790879/181660387-6641dd23-7d2e-40ee-9983-182d7e46f584.png)
 
 Gender also does not have a negative impact on bike usage, however more males are likely to use it. Even with this difference though, there is a positive trend in usage. 
 ![image](https://user-images.githubusercontent.com/103790879/181660400-90c87b78-e8d5-439f-b98b-c94737edd623.png)
